@@ -1,8 +1,9 @@
-import React from 'react';
-import LogIn from "../pages/login/LogIn";
+import React from 'react'
+
+import LogIn from '../pages/login/LogIn'
 // import {Route, Routes} from 'react-router-dom';
 // import Home from "../pages/home/Home";
-//
+
 // import Page404 from "../pages/404/Page404";
 // import PasswordRecovery from "../pages/passwordRecovery/PasswordRecovery";
 // import Registration from "../pages/registration/Registration";
@@ -19,12 +20,12 @@ const PATH = {
     registration: '/registration',
     passwordRecovery: '/passwordRecovery',
     enterNewPassword: '/enterPassword',
-    home: '/'
+    home: '/',
 }
 
 function App() {
     return (
-        <LogIn/>
+        <LogIn />
         // <div>
         //     <nav>
         //         <NavLink to={PATH.home}>Home</NavLink>
@@ -43,7 +44,7 @@ function App() {
         //         <Route path={PATH.testBed} element={<TestBed/>}/>
         //     </Routes>
         // </div>
-    );
+    )
 }
 
-export default App;
+export default App
