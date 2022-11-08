@@ -8,7 +8,7 @@ type AppReducerStateType = {
 const initialState: AppReducerStateType = {
     value: false
 }
-export const AppReducer = (state: AppReducerStateType = initialState, action: AppReducerActionType) => {
+export const AppReducer = (state: AppReducerStateType = initialState, action: AppReducerActionType):AppReducerStateType => {
     switch (action.type) {
 
 
