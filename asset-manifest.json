@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/Cards/static/css/main.e6c13ad2.css",
-    "main.js": "/Cards/static/js/main.d87918f2.js",
+    "main.css": "/Cards/static/css/main.8a8ca5a8.css",
+    "main.js": "/Cards/static/js/main.41317409.js",
     "static/js/787.8517b185.chunk.js": "/Cards/static/js/787.8517b185.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Cards/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Cards/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Cards/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Cards/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Cards/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/login_bg.jpg": "/Cards/static/media/login_bg.d616d9608ef887e2e801.jpg",
     "index.html": "/Cards/index.html",
-    "main.e6c13ad2.css.map": "/Cards/static/css/main.e6c13ad2.css.map",
-    "main.d87918f2.js.map": "/Cards/static/js/main.d87918f2.js.map",
+    "main.8a8ca5a8.css.map": "/Cards/static/css/main.8a8ca5a8.css.map",
+    "main.41317409.js.map": "/Cards/static/js/main.41317409.js.map",
     "787.8517b185.chunk.js.map": "/Cards/static/js/787.8517b185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.d87918f2.js"
+    "static/css/main.8a8ca5a8.css",
+    "static/js/main.41317409.js"
   ]
 }
