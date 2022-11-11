@@ -1,11 +1,7 @@
-import React from 'react';
+import React from 'react'
 
 const TestBed = () => {
-    return (
-        <div>
-            TestBed
-        </div>
-    );
-};
+   return <div>TestBed</div>
+}
 
-export default TestBed;
+export default TestBed
